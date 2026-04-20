@@ -1,1 +1,1 @@
-# odin-recipes
+This is my Recipes page that I will be making using the Odin Project. I will demonstrate my ability to create a page confidently using HTML. All credits for recipes and images go to BBC good Food.
